@@ -15,4 +15,9 @@ I am from Russia and currently work as a teacher. However, recently, I have real
 6. Machine Translation Post-Editing
 # Education
 * Bashkir State Pedagogical University named after M. Akmulla (BSPU)- Institute of Philological Education and Intercultural Communications.
-* 
+* Bashkir State University - The faculty of Philological Education
+# Languages
+* Russian - native speaker
+* English -C1, LanguageCert Level 2 Certificate in ESOL International (Listening, Reading, Writing)
+* French - A2
+* Spanisk- A1
