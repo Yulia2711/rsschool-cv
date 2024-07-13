@@ -14,10 +14,13 @@ I am from Russia and currently work as a teacher. However, recently, I have real
 5. MemoQ
 6. Machine Translation Post-Editing
 # Education
-* Bashkir State Pedagogical University named after M. Akmulla (BSPU)- Institute of Philological Education and Intercultural Communications.
-* Bashkir State University - The faculty of Philological Education
+* Master degree - Bashkir State Pedagogical University named after M. Akmulla (BSPU)
+*      Institute of Philological Education and Intercultural Communications.
+* Bachelor degree- Bashkir State University
+*     The faculty of Philological Education
 # Languages
 * Russian - native speaker
 * English -C1, LanguageCert Level 2 Certificate in ESOL International (Listening, Reading, Writing)
 * French - A2
-* Spanisk- A1
+* Spanish- A1
+![726208289](https://github.com/user-attachments/assets/cc5f488b-9099-4968-88a8-b2a7315eb574)
